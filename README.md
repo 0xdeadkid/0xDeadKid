@@ -1,67 +1,47 @@
-# hey, I'm 0xdeadkid 👾
-
 ```
-15 y/o Linux goblin & C gremlin
-I break stuff in the terminal until it magically works
-Sometimes I read man pages. Sometimes I cry.
+┌─[ 0xdeadkid@terminal ]─[ ~ ]
+└─$ cat README.md
 ```
 
-<div align="center">
+# 0xdeadkid 👾
 
-```ascii
-████████████████████████████████████████████████████████████████
+```yaml
+age: 15
+species: linux_goblin
+subspecies: c_gremlin
+status: breaking_things_until_they_work
+documentation: sometimes_rtfm
+emotional_state: occasionally_crying
 ```
 
-</div>
+## 🛠️ `/usr/bin/skills`
 
-## 🛠️ `skills`
+| Language | Proficiency | Status |
+|----------|-------------|---------|
+| `C` | Segfault Summoner | `write → compile → segfault → repeat` |
+| `Web` | Circus Performer | `HTML/CSS/JS (aka the front-end circus)` |
+| `Linux` | Apprentice Wizard | `sudo sorcerer in training` |
+| `Git` | Conflict Resolver | `master of merge conflicts & commits` |
 
-```c
-// C
-write → compile → segfault → repeat
+## 🎯 `~/goals.txt`
+
+```
+TODO:
+- level up in C and webdev without rage-quitting
+- build stuff that actually runs (on purpose)  
+- stop copy-pasting Stack Overflow answers (eventually)
 ```
 
-```javascript  
-// Web
-HTML/CSS/JS (aka the front-end circus)
-```
+## 📡 `./contact.sh`
 
 ```bash
-# Linux  
-sudo sorcerer in training
+#!/bin/bash
+echo "📧 0xdeadkid@proton.me"
+echo "🐦 twitter.com/0xdeadkid" 
+echo "🐙 github.com/0xdeadkid"
 ```
 
-```git
-# Git
-master of merge conflicts & last-minute commits
 ```
-
-<br>
-
-## 🎯 `goals`
-
-- [ ] level up in **C** and webdev without rage-quitting
-- [ ] build stuff that *actually* runs (on purpose)  
-- [ ] stop copy-pasting Stack Overflow answers (eventually)
-
-<br>
-
-## 📡 `connect`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧-0xdeadkid@proton.me-informational?style=flat-square&color=FF79C6)](mailto:0xdeadkid@proton.me)
-[![Twitter](https://img.shields.io/badge/🐦-@0xdeadkid-informational?style=flat-square&color=1DA1F2)](https://twitter.com/0xdeadkid)  
-[![GitHub](https://img.shields.io/badge/🐙-0xdeadkid-informational?style=flat-square&color=6CC644)](https://github.com/0xdeadkid)
-
-</div>
-
-<br>
-
-<div align="center">
-
+┌─[ disclaimer ]
+└─$ echo "🧪 stay weird, keep coding, and don't trust rm -rf / ✌️"
 ```
-🧪 stay weird, keep coding, and don't trust `rm -rf /` ✌️
-```
-
-</div>
